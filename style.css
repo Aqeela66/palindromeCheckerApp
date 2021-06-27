@@ -1,0 +1,74 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 600px;
+    background-image: linear-gradient(to right, rgba(255, 0, 0, 0), rgb(229, 182, 160));
+}
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+h2 {
+    text-align: center;
+}
+
+button {
+    padding: 20px 30px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    background-color: blanchedalmond;
+    cursor: pointer;
+    border: none;
+    border-radius: 30px;
+    box-shadow: 1px 1px 5px 1px forestgreen;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40px;
+    margin: auto;
+}
+
+button:focus {
+    outline: gainsboro;
+}
+
+button:hover {
+    background-color: gold;
+    color: hotpink;
+}
+
+button:active {
+    box-shadow: none;
+}
+
+div {
+    border: 4px solid rgb(18, 19, 19);
+    padding: 30px 60px;
+}
+
+#form {
+    padding: 30px 60px;
+    border: hidden;
+}
+
+input[type=text] {
+    border: 2px solid rgb(185, 117, 117);
+    border-radius: 4px;
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    background-color: azure;
+}
+
+input[type=text]:focus {
+    border: 3px solid #555;
+}
