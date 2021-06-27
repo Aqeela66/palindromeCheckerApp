@@ -26,4 +26,4 @@ This App checks for an input string if it's palindrome or not
 - open index.html in your browser.
 
 ###### Repo Link: https://github.com/Aqeela66/plindromeCheckerApp
-###### Live Link: 
+###### Live Link: https://aqeela66.github.io/plindromeCheckerApp/
