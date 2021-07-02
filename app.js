@@ -7,7 +7,7 @@ function palindrome() {
         reverseWord = reverseWord + inputWord[i];
     }
     if (inputWord == reverseWord) {
-        var result = document.querySelector('p').innerHTML = "Oh yes, given word is a palindrome";
+        var result = document.querySelector('#form').innerHTML = " ✔Oh yes, given word is a palindrome";
         var result2 = result.bold();
         document.querySelector("#form").innerHTML = result2;
         document.querySelector('#form').style.color = "green";
