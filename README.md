@@ -28,7 +28,7 @@ This App checks for an input string if it's palindrome or not
 ##### Software needed to run for this app
 
 - VS Code (as Editor)
-- 
+ 
 - Browser (as runtime Google Chrome)
 
 ###### How to run code in this repo?
