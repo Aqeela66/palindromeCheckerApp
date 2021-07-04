@@ -1,4 +1,4 @@
-# plindromeCheckerApp
+# palindromeCheckerApp
 This App checks for an input string if it's palindrome or not
 
 # Palindrome App
@@ -38,7 +38,7 @@ This App checks for an input string if it's palindrome or not
 - open index.html in your browser.
 
 ###### Repo Link: 
-https://github.com/Aqeela66/plindromeCheckerApp
+https://github.com/Aqeela66/palindromeCheckerApp
 
 ###### Live Link: 
-https://aqeela66.github.io/plindromeCheckerApp/
+https://aqeela66.github.io/palindromeCheckerApp/
